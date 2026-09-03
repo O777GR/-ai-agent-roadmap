@@ -80,6 +80,31 @@
 
 ---
 
+## 🚀 Расширенная агентная экосистема (Новые находки)
+
+### **Песочница и Рантайм (Mirage)**
+🔗 [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — Эталонная реализация локального рантайма с изоляцией инструментов, сессиями и аудит-логами.  
+🔗 [GCWing/BitFun](https://github.com/GCWing/BitFun) — Концепция запуска задач агента как изолированных мини-приложений.
+
+### **Самообучение и QA (Ouroboros)**
+🔗 [vostride/agent-qa](https://github.com/vostride/agent-qa) — Готовая архитектура самосовершенствующегося контроля качества кода агентом с использованием памяти.
+
+### **Память и Контекст (WeKnora)**
+🔗 [mindscale-noah/MindMemOS](https://github.com/mindscale-noah/MindMemOS) — Управление контекстом между агентами, автоматическая отработка навыков и интеграция с файловыми системами знаний.
+
+### **Зрение и Веб-автоматизация**
+🔗 [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Vision-инструменты для агентов: анализ скриншотов, распознавание GUI и визуальные задачи.  
+🔗 [chainbase-labs/Agentkey](https://github.com/chainbase-labs/Agentkey) — Мгновенный доступ агента к чтению веб-страниц и соцсетей без сложной настройки.
+
+### **MCP и Инструменты**
+🔗 [xyTom/coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp) — Библиотека готовых MCP-инструментов для задач программирования и рефакторинга.
+
+### **Рабочие пространства и No-Code**
+🔗 [freestylefly/wesight](https://github.com/freestylefly/wesight) — Концепция рабочего пространства для локальных кодинг-агентов.  
+🔗 [fufankeji/deepseek-harness-studio](https://github.com/fufankeji/deepseek-harness-studio) — No-code студия для визуального улучшения и управления локальными моделями.
+
+---
+
 ## 🙏 Благодарности
 
 Огромное спасибо всем авторам этих проектов за открытый код, документацию и вдохновение. Без их работы этот проект был бы невозможен.
